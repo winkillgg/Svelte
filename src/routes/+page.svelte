@@ -1,3 +1,3 @@
 <svelte:head>
-    <title>Fname Sname</title>
+    <p1>Я не знаю что можно сделать</p1>
 </svelte:head>
